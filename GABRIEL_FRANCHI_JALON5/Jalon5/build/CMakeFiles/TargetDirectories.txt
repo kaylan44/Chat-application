@@ -1,0 +1,2 @@
+/home/ggabriel/S7/RE216/GABRIEL_FRANCHI_JALON5/Jalon5/build/jalon05/CMakeFiles/RE216_JALON05_CLIENT.dir
+/home/ggabriel/S7/RE216/GABRIEL_FRANCHI_JALON5/Jalon5/build/jalon05/CMakeFiles/RE216_JALON05_SERVER.dir

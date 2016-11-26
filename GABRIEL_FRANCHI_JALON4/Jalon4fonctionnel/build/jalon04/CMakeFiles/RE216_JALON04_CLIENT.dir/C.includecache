@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ggabriel/S7/RE216/GABRIEL_FRANCHI_JALON4/Jalon4fonctionnel/src/jalon04/salon.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+unistd.h
+-
+sys/select.h
+-
+user.h
+/home/ggabriel/S7/RE216/GABRIEL_FRANCHI_JALON4/Jalon4fonctionnel/src/jalon04/user.h
+salon.h
+/home/ggabriel/S7/RE216/GABRIEL_FRANCHI_JALON4/Jalon4fonctionnel/src/jalon04/salon.h
+
+/home/ggabriel/S7/RE216/GABRIEL_FRANCHI_JALON4/Jalon4fonctionnel/src/jalon04/salon.h
+user.h
+/home/ggabriel/S7/RE216/GABRIEL_FRANCHI_JALON4/Jalon4fonctionnel/src/jalon04/user.h
+
+/home/ggabriel/S7/RE216/GABRIEL_FRANCHI_JALON4/Jalon4fonctionnel/src/jalon04/user.h
+
